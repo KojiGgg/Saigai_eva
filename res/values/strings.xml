@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saigai_eva</string>
+    <string name="hello_world">TEST</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_settings">something here</string>
+    
+    <string name="twitter_consumer_key">Dw1prcQyd5HYehHEP0HEIA</string>
+    <string name="twitter_consumer_secret">gFuuPwBOtkhN1bYRqYk491TVc0ujMW4mDmpnsSdctg</string>
+    
+    <string name="twitter_oauth">認証</string>
+    <string name="twitter_callback_url">kojiggg://twitter</string>
+    <string name="menu_tweet">ツイート</string>
+    <string name="menu_refresh">更新</string>
+    <string name="menu_location">位置情報</string>
+    
+    <string name="textView1">textView</string>
+    <string name="textView2">textView</string>
+    
+    <string name="text1">名前</string>
+    <string name="text2">\uFF20KojiGgg</string>
+    <string name="text3">本文</string>
+    
+    <string name="map_key">AIzaSyAw1L-rsuCMaOMBI24ucP1tGMdQuT5BB4Q</string>
+</resources>
